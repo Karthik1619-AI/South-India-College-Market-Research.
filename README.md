@@ -37,9 +37,6 @@ The project analyzes data from 500 South Indian colleges using Excel, Python, Ju
 
 ---
 
-## 📊 Dashboard
-
-(Add your dashboard screenshot here)
 
 ---
 
